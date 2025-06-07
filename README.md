@@ -1,6 +1,6 @@
 # DefenderLogMonitor
 
-**Author**: Sweetie  
+**Author**:Mary
 **Role**: SOC Analyst (in training)  
 **Tool**: PowerShell
 
